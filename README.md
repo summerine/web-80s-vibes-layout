@@ -1,4 +1,4 @@
-# Web-Tableless-Page
+# Web-80s-vibes-layout
 
 This is another attempt of making layout using div and jumbotron elements.
 This layout is using external css. 
